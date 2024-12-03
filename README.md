@@ -1,7 +1,7 @@
 # Custom Grid Example
 
 ## How to Install and Test
-1. Download the .mpk file
+1. Download the .mpk file ending with the type of query engine you need
 2. Open Mendix Studio Pro version 9.24.5
 3. Click "Open App Locally"
 4. Navigate to where you downloaded the .mpk file and open the file
